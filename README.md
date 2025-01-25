@@ -16,7 +16,7 @@ The following **required** functionality is completed:
 
 ## Video Walkthrough
 
-![DEMO GIF]("./walkthrough.gif")
+![DEMO GIF]("https://github.com/benjaminhpham/ios-101-prework-backgroundChanges/blob/main/walkthrough.gif")
 
 ## App Brainstorming (Step 4)
 
