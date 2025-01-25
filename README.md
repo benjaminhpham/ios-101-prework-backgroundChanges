@@ -21,30 +21,30 @@ The following **required** functionality is completed:
 ## App Brainstorming (Step 4)
 
 App: Udemy
-• Massive course library covering a wide range of subjects, including programming, business, personal development, and design.
-• Courses are taught by high-quality instructors and include embedded transcripts and closed captions.
-• Interactive quizzes and assignments to reinforce learning and assess understanding.
-• Users can save courses for later and track their progress.
-• Available on multiple platforms: web, iOS, and Android.
-• Learners receive a completion certificate after finishing a course.
+- Massive course library covering a wide range of subjects, including programming, business, personal development, and design.
+- Courses are taught by high-quality instructors and include embedded transcripts and closed captions.
+- Interactive quizzes and assignments to reinforce learning and assess understanding.
+- Users can save courses for later and track their progress.
+- Available on multiple platforms: web, iOS, and Android.
+- Learners receive a completion certificate after finishing a course.
 
 App: Reddit
-• Displays viral content and trending topics across the Reddit app.
-• AI-powered recommendations suggest subreddits and posts based on user behavior.
-• Abundance of subreddits covering topics like tech, gaming, sports, movies, memes, and finance.
-• Upvote and downvote system ranks posts based on community engagement.
-• Users can give awards (Silver, Gold, Platinum) to recognize high-quality content contributions.
-• Users can share GIFs, memes, and videos directly on the platform.
-• Real-time notifications and alerts when someone interacts with a user’s content.
-• Exclusive communities for premium/paid users.
+- Displays viral content and trending topics across the Reddit app.
+- AI-powered recommendations suggest subreddits and posts based on user behavior.
+- Abundance of subreddits covering topics like tech, gaming, sports, movies, memes, and finance.
+- Upvote and downvote system ranks posts based on community engagement.
+- Users can give awards (Silver, Gold, Platinum) to recognize high-quality content contributions.
+- Users can share GIFs, memes, and videos directly on the platform.
+- Real-time notifications and alerts when someone interacts with a user’s content.
+- Exclusive communities for premium/paid users.
 
 App: Google Maps
-• Real-time navigation and directions feature live traffic updates, lane guidance, speed limits, and speed traps.
-• Multi-modal transportation allows users to choose between buses, trains, subways, ferries, and rideshares.
-• 360-degree Street View lets users explore places as if they were there.
-• Comprehensive business listings for restaurants, gas stations, hotels, and ATMs, including reviews, ratings, opening hours, and contact info.
-• Personalized local recommendations based on a user’s location and behavior.
-• Tracks past visits, trip insights, privacy controls, and location sharing options.
+- Real-time navigation and directions feature live traffic updates, lane guidance, speed limits, and speed traps.
+- Multi-modal transportation allows users to choose between buses, trains, subways, ferries, and rideshares.
+- 360-degree Street View lets users explore places as if they were there.
+- Comprehensive business listings for restaurants, gas stations, hotels, and ATMs, including reviews, ratings, opening hours, and contact info.
+- Personalized local recommendations based on a user’s location and behavior.
+- Tracks past visits, trip insights, privacy controls, and location sharing options.
 
 ## Notes
 
